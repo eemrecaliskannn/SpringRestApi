@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootPostgresqlHibernateCrudExampleApplication<springboot-postgresql-hibernate-crud-example>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "student.example.springbootpostgresqlhibernatecrudexample.SpringbootPostgresqlHibernateCrudExampleApplication",
+            "projectName": "springboot-postgresql-hibernate-crud-example",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
